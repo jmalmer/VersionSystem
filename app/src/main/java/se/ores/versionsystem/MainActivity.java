@@ -14,5 +14,9 @@ public class MainActivity extends AppCompatActivity {
     public void Settings() {
 
     }
+
+    public boolean isTrue(boolean b) {
+        return b;
+    }
 }
 
